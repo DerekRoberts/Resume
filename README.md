@@ -40,7 +40,7 @@ Lead development of tools to deploy open source projects with pull request (PR)-
 * [Forests Access Management](https://github.com/bcgov/nr-forests-access-management)
 * [*Forestry Client*](https://github.com/bcgov/nr-forest-client)
 * [*Forestry Operations Map*](https://github.com/bcgov/nr-fom)
-* [Groundwater Well and Aquifers](https://github.com/bcgov/nr-gwells)
+* [Groundwater Wells and Aquifers](https://github.com/bcgov/nr-gwells)
 * [Harvest Residue System Waste](https://github.com/bcgov/nr-waste-plus)
 * [Old Growth](https://github.com/bcgov/nr-old-growth)
 * [Oracle Service](https://github.com/bcgov/nr-oracle-service)
